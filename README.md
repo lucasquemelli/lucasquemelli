@@ -5,6 +5,7 @@ Call me Lucas! I am a Data Scientist!
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasquemelli&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasquemelli&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquemelli)](https://github.com/lucasquemelli/github-readme-stats"
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquemelli)](https://github.com/anuraghazra/github-readme-stats)
