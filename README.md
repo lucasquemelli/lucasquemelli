@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
 My name is Lucas! I am a Chemical Engineer and a Master of Science in Chemical Engineering, and I work with Data Science. 
 
