@@ -2,10 +2,10 @@
 
 My name is Lucas! I am a Chemical Engineer and a Master of Science in Chemical Engineering, and I work with Data Science. 
 
-
+<p align="center">
 ![Git Stat](https://github-readme-stats.vercel.app/api?username=lucasquemelli&show_icons=true&theme=tokyonight)
 ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasquemelli&theme=tokyonight)
-
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquemelli&layout=compact&theme=tokyonight)](https://github.com/lucasquemelli/github-readme-stats)
