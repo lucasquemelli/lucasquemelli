@@ -8,7 +8,7 @@ My name is Lucas! I am a Chemical Engineer and a Master of Science in Chemical E
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquemelli&layout=compact&theme=dark)](https://github.com/lucasquemelli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquemelli&layout=compact&theme=tokyonight)](https://github.com/lucasquemelli/github-readme-stats)
 
   
 ![Dino Gif](https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
