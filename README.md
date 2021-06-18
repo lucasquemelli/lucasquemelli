@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Call me Lucas! I am a Data Scientist! 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasquemelli&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasquemelli&theme=tokyonight" />
+</p>
+
+<h4 align="center">Testimonials</h4>
+<h1 align="center">❝</h1>
+
 <!--
 **lucasquemelli/lucasquemelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
