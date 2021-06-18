@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Call me Lucas! I am a Data Scientist! 
+My name is Lucas! I am a Chemical Engineer and a Master of Science in Chemical Engineering, and I work with Data Science. 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasquemelli&show_icons=true&theme=tokyonight" />
