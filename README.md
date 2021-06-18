@@ -12,7 +12,7 @@ My name is Lucas! I am a Chemical Engineer and a Master of Science in Chemical E
 # My languages
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/r/r-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
   
 ![Dino Gif](https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
 
