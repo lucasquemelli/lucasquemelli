@@ -12,6 +12,8 @@ My name is Lucas! I am a Chemical Engineer and a Master of Science in Chemical E
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
 
+(https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
+
 <!--
 **lucasquemelli/lucasquemelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
