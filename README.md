@@ -7,7 +7,7 @@ My name is Lucas! I am a Chemical Engineer and a Master of Science in Chemical E
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasquemelli&theme=tokyonight" />
 </p>
 
-[![Top Langs](img width="48%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquemelli)](https://github.com/lucasquemelli/github-readme-stats)
+[![Top Langs](img width="48%" https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquemelli)](https://github.com/lucasquemelli/github-readme-stats)
 
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
