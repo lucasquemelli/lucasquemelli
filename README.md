@@ -17,7 +17,7 @@ My name is Lucas! I am a Chemical Engineer | Food Engineer and a Master of Scien
 <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkON8JxDznoU9J8kLQSCRUlzLqN8VN7a8cHJhW-zyO2zuCLz0mPgEZIwpz6WrZVaoPyE8&usqp=CAU"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> 
 <code><img width="10%" src="https://pbs.twimg.com/media/CNJQGcrVEAAqZG1.png"></code> 
-<code><img width="10%" src="https://www.google.com/search?q=logos+SQL&sxsrf=ALeKk01GgdDmREd0OE3imGPBoFw-HSFeTA:1626992194204&tbm=isch&source=iu&ictx=1&fir=hc3qPQee9Y6c4M%252CGwY_K6pKb73g2M%252C_&vet=1&usg=AI4_-kSd-_r-vb-x5Ee-_upd9tEWv0N3_A&sa=X&ved=2ahUKEwju76We2vfxAhUtrpUCHdPbDrYQ9QF6BAgDEAE#imgrc=hc3qPQee9Y6c4M"></code>
+<code><img width="10%" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgetlogo.net%2Fwp-content%2Fuploads%2F2020%2F03%2Fsql-projekt-ag-logo-vector.png&imgrefurl=https%3A%2F%2Fgetlogo.net%2Fsql-projekt-ag-logo-vector-svg%2F&tbnid=GeatQJGsHiQ6LM&vet=12ahUKEwjUgNS52vfxAhXHpJUCHdODCq4QMygQegUIARDPAQ..i&docid=s51AzE0DZNHbgM&w=900&h=500&q=logos%20SQL&ved=2ahUKEwjUgNS52vfxAhXHpJUCHdODCq4QMygQegUIARDPAQ"></code>
 
 ![Dino Gif](https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
 
