@@ -17,7 +17,7 @@ My name is Lucas! I am a Chemical Engineer | Food Engineer and a Master of Scien
 <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkON8JxDznoU9J8kLQSCRUlzLqN8VN7a8cHJhW-zyO2zuCLz0mPgEZIwpz6WrZVaoPyE8&usqp=CAU"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> 
 <code><img width="10%" src="https://pbs.twimg.com/media/CNJQGcrVEAAqZG1.png"></code> 
-<code><img width="10%" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgetlogo.net%2Fwp-content%2Fuploads%2F2020%2F03%2Fsql-projekt-ag-logo-vector.png&imgrefurl=https%3A%2F%2Fgetlogo.net%2Fsql-projekt-ag-logo-vector-svg%2F&tbnid=GeatQJGsHiQ6LM&vet=12ahUKEwjUgNS52vfxAhXHpJUCHdODCq4QMygQegUIARDPAQ..i&docid=s51AzE0DZNHbgM&w=900&h=500&q=logos%20SQL&ved=2ahUKEwjUgNS52vfxAhXHpJUCHdODCq4QMygQegUIARDPAQ"></code>
+<code><img width="10%" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F18%2F18a311c9932a4327ded4436577bda857.png&imgrefurl=https%3A%2F%2Fwww.logolynx.com%2Ftopic%2Fsql&tbnid=DVLT5M7upA21VM&vet=12ahUKEwjUgNS52vfxAhXHpJUCHdODCq4QMyggegUIARD4AQ..i&docid=sN0uu9EDNFt6PM&w=290&h=290&q=logos%20SQL&ved=2ahUKEwjUgNS52vfxAhXHpJUCHdODCq4QMyggegUIARD4AQ"></code>
 
 ![Dino Gif](https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
 
