@@ -18,7 +18,7 @@ My name is Lucas! I am a Chemical Engineer | Food Engineer and a Master of Scien
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> 
 <code><img width="10%" src="https://pbs.twimg.com/media/CNJQGcrVEAAqZG1.png"></code> 
 <code><img width="10%" src="https://www.shutterstock.com/image-vector/sql-database-icon-logo-design-ui-684978475"></code>
-
+l
 ![Dino Gif](https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
 
 <!--
