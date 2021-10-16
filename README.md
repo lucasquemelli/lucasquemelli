@@ -11,8 +11,12 @@ My name is Lucas! I am a Chemical Engineer | Food Engineer and a Master of Scien
 
 # My languages & tools
 
+<code><img width="10%" src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
+<code><img width="10%" src="https://seeklogo.com/images/L/libreoffice-logo-0122AECC06-seeklogo.com.gif"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/office-365-1.svg"></code>
 <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkON8JxDznoU9J8kLQSCRUlzLqN8VN7a8cHJhW-zyO2zuCLz0mPgEZIwpz6WrZVaoPyE8&usqp=CAU"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> 
