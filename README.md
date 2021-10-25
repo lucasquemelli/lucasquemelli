@@ -16,7 +16,7 @@ My name is Lucas! I am a Chemical Engineer | Food Engineer and a Master of Scien
 <code><img width="10%" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
-<code><img width="10%" src="https://seeklogo.com/images/L/libreoffice-logo-0122AECC06-seeklogo.com.gif"></code>
+<code><img width="10%" src="https://wiki.documentfoundation.org/images/thumb/6/65/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png/200px-LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/office-365-1.svg"></code>
 <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkON8JxDznoU9J8kLQSCRUlzLqN8VN7a8cHJhW-zyO2zuCLz0mPgEZIwpz6WrZVaoPyE8&usqp=CAU"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> 
