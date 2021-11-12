@@ -27,6 +27,7 @@ My name is Lucas! I am a Chemical Engineer | Food Engineer and a Master of Scien
 <code><img width="10%" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png"></code>
 <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sqWgzUvG9CKv3SIXAy2Dj9DQxYpMgiynpw&usqp=CAU"></code>
 <code><img width="10%" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png"></code>
+<code><img width="10%" src="https://www.google.com/imgres?imgurl=http%3A%2F%2F3.108.114.26%2Fstorage%2Fimages%2FCoLaboratory-01.svg&imgrefurl=https%3A%2F%2Fseekvectors.com%2Fpost%2Fcolaboratory-logo&tbnid=1uzehsla-P44zM&vet=12ahUKEwi70NbJ_JP0AhUYLbkGHU_mC68QMygDegUIARC0AQ..i&docid=F_PLKYGatlXqFM&w=800&h=747&itg=1&q=logo%20google%20colaboratory&ved=2ahUKEwi70NbJ_JP0AhUYLbkGHU_mC68QMygDegUIARC0AQ"></code>
 
 ![Dino Gif](https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
 
