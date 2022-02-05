@@ -13,7 +13,7 @@ My name is Lucas! I am a Chemical Engineer | Food Engineer and a Master of Scien
 
 <code><img width="10%" src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
-<code><img width="10%" src=""></code>
+<code><img width="10%" src="file:///E:/Backup/Lucas/Downloads/macos-vector-logo-C72AC47B0B-seeklogo.com/macos-seeklogo.com.svg"></code>
 <code><img width="10%" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
