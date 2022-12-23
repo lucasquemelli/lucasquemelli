@@ -37,6 +37,8 @@ My name is Lucas! I am a Master of Science in Chemical Engineering who jumped ov
 <code><img width="10%" src="https://github.com/lucasquemelli/lucasquemelli/blob/main/Sheets.png"></code>
 <code><img width="10%" src="https://github.com/lucasquemelli/lucasquemelli/blob/main/GDS.jpg"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/lucasquemelli/lucasquemelli/main/google_bigquery-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/lucasquemelli/lucasquemelli/blob/main/Tableau.png"></code>
+
 
 ![Dino Gif](https://github.com/lucasquemelli/lucasquemelli/raw/main/dino.gif)
 
