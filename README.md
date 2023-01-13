@@ -1,7 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-My name is Lucas! I am a Master of Science in Chemical Engineering who jumped over the Data Science world. My entire professional career is based on data analysis.  
-
+My name is Lucas! I work as a Data Scientist! 
 
 ![Git Stat](https://github-readme-stats.vercel.app/api?username=lucasquemelli&show_icons=true&theme=tokyonight)
 ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasquemelli&theme=tokyonight)
